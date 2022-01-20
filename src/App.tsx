@@ -1,6 +1,6 @@
 import { DefaultUi, Hls, Player } from "@vime/react";
 
-import video from "./assets/videos/1080p.mp4";
+// import video from "./assets/videos/1080p.mp4";
 
 import "./App.css";
 
